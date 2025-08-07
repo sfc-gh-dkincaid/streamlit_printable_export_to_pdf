@@ -1,0 +1,10 @@
+name: app_environment
+channels:
+  - snowflake
+dependencies:
+  - fpdf=1.7.2
+  - matplotlib=3.10.0
+  - numpy=2.3.1
+  - python=3.11.*
+  - snowflake-snowpark-python=
+  - streamlit=
